@@ -12,6 +12,6 @@ You can use any of these two scripts but there will be differences.
 'adaptive.py' uses adaptive streaming download which will be slower but is not limited by quality.
 
 ### Usage Example for Progressive Download: 
-python progressive.py https://youtu.be/v0SWwJ-zVb8
+'python progressive.py https://youtu.be/v0SWwJ-zVb8'
 ### Usage Example for Adaptive Streaming Download: 
-python adaptive.py https://youtu.be/v0SWwJ-zVb8
+'python adaptive.py https://youtu.be/v0SWwJ-zVb8'
